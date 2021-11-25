@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PantryApp/static/css/main.c818821c.chunk.css",
+    "main.js": "/PantryApp/static/js/main.b17828f0.chunk.js",
+    "main.js.map": "/PantryApp/static/js/main.b17828f0.chunk.js.map",
+    "runtime-main.js": "/PantryApp/static/js/runtime-main.e09dae36.js",
+    "runtime-main.js.map": "/PantryApp/static/js/runtime-main.e09dae36.js.map",
+    "static/css/2.9c6b934b.chunk.css": "/PantryApp/static/css/2.9c6b934b.chunk.css",
+    "static/js/2.4b2da2e9.chunk.js": "/PantryApp/static/js/2.4b2da2e9.chunk.js",
+    "static/js/2.4b2da2e9.chunk.js.map": "/PantryApp/static/js/2.4b2da2e9.chunk.js.map",
+    "static/js/3.c32163e9.chunk.js": "/PantryApp/static/js/3.c32163e9.chunk.js",
+    "static/js/3.c32163e9.chunk.js.map": "/PantryApp/static/js/3.c32163e9.chunk.js.map",
+    "index.html": "/PantryApp/index.html",
+    "static/css/2.9c6b934b.chunk.css.map": "/PantryApp/static/css/2.9c6b934b.chunk.css.map",
+    "static/css/main.c818821c.chunk.css.map": "/PantryApp/static/css/main.c818821c.chunk.css.map",
+    "static/js/2.4b2da2e9.chunk.js.LICENSE.txt": "/PantryApp/static/js/2.4b2da2e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e09dae36.js",
+    "static/css/2.9c6b934b.chunk.css",
+    "static/js/2.4b2da2e9.chunk.js",
+    "static/css/main.c818821c.chunk.css",
+    "static/js/main.b17828f0.chunk.js"
+  ]
+}
